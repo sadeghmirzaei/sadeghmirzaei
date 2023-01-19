@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadeghmirzaei
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 Always learning JavaScript
 - 💞️ I’m looking to collaborate on Web developing programs
 - 📫 Please send me an email : sadegh_mirzaei_7@yahoo.com
 
